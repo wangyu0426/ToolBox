@@ -1,0 +1,8 @@
+C:\Users\lichew\Documents\GitHub\ToolBox\bin\Debug\SSUtilities.dll.config
+C:\Users\lichew\Documents\GitHub\ToolBox\bin\Debug\SSUtilities.dll
+C:\Users\lichew\Documents\GitHub\ToolBox\bin\Debug\SSUtilities.pdb
+C:\Users\lichew\Documents\GitHub\ToolBox\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lichew\Documents\GitHub\ToolBox\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lichew\Documents\GitHub\ToolBox\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\lichew\Documents\GitHub\ToolBox\obj\Debug\SSUtilities.dll
+C:\Users\lichew\Documents\GitHub\ToolBox\obj\Debug\SSUtilities.pdb
